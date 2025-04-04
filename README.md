@@ -1,4 +1,4 @@
-# Bug Detection and Automated Fixing
+# Bug Detection and Fixing
 
 ## 📌 Project Description
 This project automates the process of detecting and fixing bugs in Python code using machine learning techniques. It utilizes a combination of traditional ML (TF-IDF + Random Forest) and deep learning (CodeT5 Transformer) to not only classify buggy code but also suggest context-aware fixes.
