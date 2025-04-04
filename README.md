@@ -41,12 +41,8 @@ The buggy and fixed code samples were collected from the [BugsInPy Repository](h
 
 ## 🖼️ Output Screenshots
 
-Here’s an example of the output:
-
-![Output Screenshot](./Screenshot%202025-04-04%20125141.png)
-
-You can find all output screenshots in this folder:  
-`./Bug Detection and Fixing/screenshots/`
+You can find all output screenshots and reports in this folder:  
+`./Final Report and Outputs/`
 
 ---
 
